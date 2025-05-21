@@ -13,8 +13,8 @@ logging.getLogger().addHandler(handler)
 logging.getLogger().setLevel(logging.INFO)
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = '7977899864:AAEoviMG0NgG2Al0kUefPY4fUcmJYgUwVxY'
-CHAT_ID = -1002471944428  # ID канала с минусом
+BOT_TOKEN = '7739356072:AAHgYqPaHyYOEuPH36hRmuYyDhrQ6-Ect1s'
+CHAT_ID = -1002382566323  # ID канала с минусом
 CHANGE_THRESHOLD = 30  # % изменения
 CHECK_INTERVAL = 60  # секунд
 WINDOW_MINUTES = 90  # период сравнения в минутах
